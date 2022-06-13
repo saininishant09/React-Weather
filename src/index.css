@@ -87,8 +87,8 @@ main {
   padding: 15px 25px;
 
   color: #FFF;
-  font-size: 102px;
-  font-weight: 900;
+  font-size: 50px;
+  font-weight: 600;
 
   text-shadow: 3px 6px rgba(50, 50, 70, 0.5);
   text-align: center;
@@ -97,8 +97,8 @@ main {
 
 .weather-box .weather {
   color: #FFF;
-  font-size: 48px;
-  font-weight: 700;
+  font-size: 30px;
+  font-weight: 600;
   text-shadow: 3px 3px rgba(50, 50, 70, 0.5);
 }
 
